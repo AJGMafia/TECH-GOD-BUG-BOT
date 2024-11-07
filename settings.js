@@ -18,7 +18,7 @@ global.location = "India, Up, Rampur"
 
 global.ownernumber = '16132197256'  //creator number
 global.ownername = 'senku igimashi' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = 'senku igimashiᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
