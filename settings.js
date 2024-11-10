@@ -22,7 +22,7 @@ global.botname = 'Tesh Godᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'Tech-God\n\nContact: +6132197256'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -35,7 +35,7 @@ global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
